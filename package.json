@@ -9,7 +9,7 @@
     "discord.js": "^11.4.2"
   },
   "scripts": {
-    "start": "node tu-script-main.js"
+    "start": "node bot.js"
   },
   "devDependencies": {
     "nodemon": "^1.19.0"
