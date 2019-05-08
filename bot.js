@@ -57,6 +57,9 @@ client.on('message', (msg) => {
                 msg.reply('You didn\'t mention the user to kick!');
             }
         }
+        else {
+            msg.reply('No tienes permiso de admin . F');
+        }
     }
 });
 
